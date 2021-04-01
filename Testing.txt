@@ -1,0 +1,38 @@
+
+
+set my_key 0 2592000 1
+1
+
+get my_key
+
+set key 0 60 4
+tres
+
+get key
+
+add hola 0 90 4
+mundo
+
+get hola
+
+add marco 0 900 4
+polo
+
+get marco
+
+replace key 0 60 6
+cuatro
+
+get key
+
+append key 0 60 9
+abcedefgh
+
+get key
+
+prepend key 0 60 3
+uno
+
+get key
+
+
